@@ -4,10 +4,6 @@ import tkinter as Recognizer
 import win32gui
 from PIL import ImageGrab, Image
 import numpy as np
-import os
-
-current_path = 'D:/Documentos/CV & Cover letter/19-04-2023/Handwritten Digit Recognizer'
-os.chdir(current_path)
 
 model = load_model('mnist.h5')
 
