@@ -1,1 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>House Price Predictor</title>
+</head>
+<body>
+    <h1>House Price Predictor</h1>
+    <form action="/predict" method="POST">
+        <label for="SqFtLot">SqFtLot:</label>
+        <input type="text" id="SqFtLot" name="SqFtLot"><br><br>
+
+        <label for="SqFtTotLiving">SqFtTotLiving:</label>
+        <input type="text" id="SqFtTotLiving" name="SqFtTotLiving"><br><br>
+
+        <label for="SqFtFinBasement">SqFtFinBasement:</label>
+        <input type="text" id="SqFtFinBasement" name="SqFtFinBasement"><br><br>
+
+        <label for="Bathrooms">Bathrooms:</label>
+        <input type="text" id="Bathrooms" name="Bathrooms"><br><br>
+
+        <label for="Bedrooms">Bedrooms:</label>
+        <input type="text" id="Bedrooms" name="Bedrooms"><br><br>
+
+        <label for="YrRenovated">YrRenovated:</label>
+        <input type="text" id="YrRenovated" name="YrRenovated"><br><br>
+
+        <label for="TrafficNoise">TrafficNoise:</label>
+        <input type="text" id="TrafficNoise" name="TrafficNoise"><br><br>
+
+        <label for="LandVal">LandVal:</label>
+        <input type="text" id="LandVal" name="LandVal"><br><br>
+
+        <label for="ImpsVal">ImpsVal:</label>
+        <input type="text" id="ImpsVal" name="ImpsVal"><br><br>
+
+        <label for="NewConstruction_encoded">NewConstruction_encoded:</label>
+        <input type="text" id="NewConstruction_encoded" name="NewConstruction_encoded"><br><br>
+
+        <input type="submit" value="Submit">
+    </form>
+
+    {% if prediction_text %}
+    <h2>{{ prediction_text }}</h2>
+    {% endif %}
+</body>
+</html>
 
