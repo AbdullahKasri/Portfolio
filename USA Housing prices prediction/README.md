@@ -8,9 +8,9 @@ But that's not all! As a bonus, a Flask web app has been designed so that you ca
 
 The project includes the following files:
 
-- `model.ipynb`: A Jupyter notebook containing the code and analysis for the project.
-- `train_sample.csv`: A random sample (50k observations) from the original dataset used for training.
-- `test_sample.csv`: A random sample (10k observations) from the original dataset used for testing.
+- `Model.ipynb`: A Jupyter notebook containing the code and analysis for the project.
+- `Flask_app.py`: A web framework app where the user can enter data and recieve predictions.
+- `.csv`: A random sample (10k observations) from the original dataset used for testing.
 
 ## Technologies used:
 - Python
