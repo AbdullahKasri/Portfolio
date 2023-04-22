@@ -31,4 +31,4 @@ Throughout my career, I've developed a wide range of skills in data science, inc
 
 ## Contact
 
-If you have any questions or would like to connect, please feel free to reach out to me at [abdullah00kasri@gmail.com]. You can also find me on [[LinkedIn](https://www.linkedin.com/in/abdullah-kasri/)](link-to-your-linkedin-profile).
+If you have any questions or would like to connect, please feel free to reach out to me at [[LinkedIn](https://www.linkedin.com/in/abdullah-kasri/)].
