@@ -17,4 +17,4 @@ The final model achieved an accuracy of XX% and can be accessed at [insert link 
 - Pandas
 - Scikit-learn
 
-If you have any questions or would like to learn more about this project, please feel free to reach out to me at [LinkedIn](https://www.linkedin.com/in/abdullah-kasri/).. You can also check out my other projects on my [GitHub](https://github.com/AbdullahKasri/Portfolio/).
+If you have any questions or would like to learn more about this project, please feel free to reach out to me at [LinkedIn](https://www.linkedin.com/in/abdullah-kasri/). You can also check out my other projects on my [GitHub](https://github.com/AbdullahKasri/Portfolio/).
