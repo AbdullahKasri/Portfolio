@@ -10,7 +10,7 @@ The project includes the following files:
 
 - `Model.ipynb`: A Jupyter notebook containing the code and analysis for the project.
 - `Flask_app.py`: A web framework app where the user can enter data and recieve predictions.
-- `.csv`: A random sample (10k observations) from the original dataset used for testing.
+- `house_sale.csv`: The original dataset.
 
 ## Technologies used:
 - Python
