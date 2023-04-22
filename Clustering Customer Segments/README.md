@@ -6,13 +6,12 @@ The dataset includes transactional data for a UK-based online retailer from 2010
 
 The project includes the following files:
 
-- `customer_segmentation.ipynb`: A Jupyter notebook containing the code and analysis for the project.
-- `OnlineRetail.csv`: The original dataset used for the analysis.
+- `model.ipynb`: A Jupyter notebook containing the code and analysis for the project.
+- `Online Retail.xlsx`: The original dataset used for the analysis.
 
 ## Technologies used:
 - Python
 - scikit-learn library
 
-To run the Jupyter notebook, you will need to have the necessary Python packages installed. You can install the required packages by running `pip install -r requirements.txt`.
 
 If you have any questions or would like to learn more about this project, please feel free to reach out to me at [LinkedIn](https://www.linkedin.com/in/abdullah-kasri/). You can also check out my other projects on my [GitHub](https://github.com/AbdullahKasri/Portfolio/).
