@@ -1,7 +1,8 @@
 # Handwritten Digit Recognition using CNN
 
-In this project, I use a convolutional neural network (CNN) to classify handwritten digits from the MNIST dataset. First, I preprocess the data and build and train the CNN model using Python and Keras. Then, I design a GUI for the users to draw their own digits and see real-time predictions from the model.
+In this project, I develop a Convolutional Neural Network (CNN) model to classify handwritten digits from the MNIST dataset. The MNIST dataset consists of 60,000 training images and 10,000 testing images of handwritten digits from 0 to 9. The CNN model is designed to learn the features of the input images and classify them into their respective digits.
 
+Using this model, I build a graphical user interface (GUI) that allows users to draw their own digits and get real-time predictions from the model. This provides an interactive experience and allows users to see the model in action. 
 ## The project includes the following files:
 
 - digit_recognition.ipynb: A Jupyter notebook containing the code and analysis for the project.
