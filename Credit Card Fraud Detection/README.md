@@ -6,8 +6,9 @@ I use Python and the XGBoost algorithm to preprocess the data, train and tune a 
 
 The project includes the following files:
 
-- `credit_card_default.ipynb`: A Jupyter notebook containing the code and analysis for the project.
-- `UCI_Credit_Card.csv`: The original dataset used for the analysis.
+- `model.ipynb`: A Jupyter notebook containing the code and analysis for the project.
+- `train_sample.csv`: A random sample (50k observations) from the original dataset used for training.
+- `test_sample.csv`: A random sample (10k observations) from the original dataset used for testing.
 
 ## Technologies used:
 - Python
