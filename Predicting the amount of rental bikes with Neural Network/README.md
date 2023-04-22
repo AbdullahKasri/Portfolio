@@ -1,6 +1,6 @@
 # Bike Rental Demand Prediction using Deep Learning
 
-In this project, I set out to predict the number of bikes being rented hourly based on weather, season, and time data. Given the complex nature of the problem, a Deep Learning model was a perfect candidate to tackle it.
+In this project, I set out to predict the number of bikes being rented hourly based on weather, season, and time data. Given the complex nature of the problem, a Deep Learning model, such as Multi Layer Perceptron, was a perfect candidate to tackle it.
 
 The project includes the following steps:
 
