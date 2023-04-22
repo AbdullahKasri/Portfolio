@@ -8,7 +8,7 @@ The project includes the following steps:
 2. Data preprocessing: Cleaned and processed the data to prepare it for modeling.
 3. Exploratory Data Analysis (EDA): Analyzed the data to gain insights and identify any patterns or correlations.
 4. Model training: Built and trained a Deep Learning model using Keras to predict bike rental demand.
-5. Model evaluation: Evaluated the model's performance using various metrics such as Mean Squared Error (MSE) and Mean Absolute Error (MAE).
+5. Model evaluation: Evaluated the model's performance using various metrics such as Mean Squared Error (MSE) and R-squared.
 
 The final model achieved an accuracy of XX% and can be accessed at [insert link here].
 
