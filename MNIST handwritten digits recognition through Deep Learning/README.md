@@ -5,9 +5,9 @@ In this project, I develop a Convolutional Neural Network (CNN) model to classif
 Using this model, I build a graphical user interface (GUI) that allows users to draw their own digits and get real-time predictions from the model. This provides an interactive experience and allows users to see the model in action. 
 ## The project includes the following files:
 
-- digit_recognition.ipynb: A Jupyter notebook containing the code and analysis for the project.
-- mnist_model.h5: The saved model weights.
-- gui.py: The Python file for the GUI.
+- CNN_model.ipynb: A Jupyter notebook containing the code and analysis for the project.
+- mnist.h5: The saved model weights.
+- GUI.py: The Python file for the GUI.
 
 
 ## Technologies used:
